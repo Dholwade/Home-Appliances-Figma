@@ -1,1 +1,1 @@
-
+https://www.figma.com/proto/n5N0gNPCPrExN9qCVK5Cx2/Home-Appliance?node-id=16-1011&t=HcC9t3coe9NWSJ61-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=16%3A1011&show-proto-sidebar=1
